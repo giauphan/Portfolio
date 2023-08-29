@@ -1,7 +1,7 @@
 ### tl;dr
 
 ```bash
-git clone https://github.com/irsyadadl/inertia.ts.git project
+git clone https://github.com/giauphan/Portfolio project
 cd project
 composer install
 cp .env.example .env
@@ -94,11 +94,3 @@ Everything you need to understand is clearly can be found in: [UI / UX with Lara
 -   [Vite](https://vitejs.dev/) with [Vite plugin](https://github.com/laravel/vite-plugin) and friends
 -   [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) and friends
 -   [clsx](https://github.com/lukeed/clsx)
-
-### Premium Partners
-
-[//]: # '-   **[Teil](https://teil.app/)**'
-
--   **[Parsinta.com](https://parsinta.com/)**
--   **[Karteil.com](https://karteil.com/)**
--   **[IrsyadNotes.com](https://irsyadnotes.com/)**
